@@ -60,7 +60,7 @@ export function Hero() {
             </Link>
             <Button 
               variant="secondary" 
-              href="https://drive.google.com/your-resume-link"
+              href="https://docs.google.com/document/d/1ovJOsMjIvNpimYIfdBjvhJV3UWDQFbSqFRvEusb0Yzo/edit?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
