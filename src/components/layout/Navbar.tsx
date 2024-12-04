@@ -4,17 +4,17 @@ import { SocialLink } from '../ui/SocialLink';
 
 const SOCIAL_LINKS = [
   {
-    href: 'mailto:your.email@gmail.com', // Replace with your email
+    href: 'mailto:ashonibare63@gmail.com',
     icon: Mail,
     label: 'Email',
   },
   {
-    href: 'https://github.com/yourusername', // Replace with your GitHub profile URL
+    href: 'https://github.com/Adewunmi97',
     icon: Github,
     label: 'GitHub',
   },
   {
-    href: 'https://linkedin.com/in/yourusername', // Replace with your LinkedIn profile URL
+    href: 'https://linkedin.com/in/adewunmi97',
     icon: Linkedin,
     label: 'LinkedIn',
   },
