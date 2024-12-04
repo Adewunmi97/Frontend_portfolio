@@ -9,10 +9,10 @@ export function ProfileImage() {
         transition={{ duration: 0.5 }}
         className="relative z-10"
       >
-        <div className="w-64 h-64 md:w-80 md:h-80 mx-auto overflow-hidden rounded-full border-4 border-purple-500">
+        <div className="w-64 h-64 md:w-80 md:h-80 mx-auto overflow-hidden rounded-full border-4 border-none">
           <img
             src="../src/Adewunmi.png"
-            alt="Your Name"
+            alt="Adewunmi"
             className="w-full h-full object-cover"
           />
         </div>
