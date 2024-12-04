@@ -11,7 +11,7 @@ export function ProfileImage() {
       >
         <div className="w-64 h-64 md:w-80 md:h-80 mx-auto overflow-hidden rounded-full border-4 border-purple-500">
           <img
-            src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=800&q=80"
+            src="../src/Adewunmi.png"
             alt="Your Name"
             className="w-full h-full object-cover"
           />

@@ -40,7 +40,7 @@ export function Hero() {
             className="text-4xl md:text-6xl font-bold mb-4"
             variants={itemVariants}
           >
-            John Doe
+            Adewunmi
           </motion.h1>
           <TypewriterText />
           <motion.p 
