@@ -12,12 +12,12 @@ export const projects: Project[] = [
   },
   {
     id: 2,
-    title: 'Weather Dashboard',
-    description: 'Real-time weather application with dynamic updates',
+    title: 'Woox',
+    description:'Front page clone of woox website.',
     image: '../src/image/woox.png',
-    technologies: ['React', 'TypeScript', 'OpenWeather API'],
-    demoLink: 'https://weather-app.example.com',
-    githubLink: 'https://github.com/yourusername/weather-app',
+    technologies: ['HTML', 'SCSS'],
+    demoLink: 'https://raw.githack.com/Adewunmi97/woox-template/feature/index.html',
+    githubLink: 'https://github.com/Adewunmi97/woox-template/tree/feature?tab=readme-ov-file',
   },
   {
     id: 3,
