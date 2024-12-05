@@ -21,11 +21,11 @@ export const projects: Project[] = [
   },
   {
     id: 3,
-    title: 'Task Management App',
-    description: 'A collaborative task management solution',
+    title: 'TodoList',
+    description: 'A todo list with adding, selecting finished tasks and deleting functions.',
     image: 'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=1000',
-    technologies: ['React', 'Firebase', 'Material-UI'],
-    demoLink: 'https://tasks.example.com',
-    githubLink: 'https://github.com/yourusername/task-manager',
+    technologies: ['HTML', 'SCSS', 'JQuery'],
+    demoLink: 'https://adewunmi97.github.io/Todo-list.github.io/',
+    githubLink: 'https://github.com/Adewunmi97/Todo-list.github.io?tab=readme-ov-file',
   },
 ];
