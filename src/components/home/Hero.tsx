@@ -22,22 +22,22 @@ const itemVariants = {
 
 export function Hero() {
   return (
-    <section className="min-h-screen flex items-center justify-center bg-gray-900 text-white px-4 py-20">
+    <section className="min-h-screen flex items-center justify-center bg-gray-900 text-white px-4 py-10">
       <motion.div
         variants={containerVariants}
         initial="initial"
         animate="animate"
-        className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12 items-center"
+        className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-20 items-center"
       >
         <motion.div variants={itemVariants} className="text-left">
           <motion.p 
-            className="text-purple-400 font-medium mb-2"
+            className="text-purple-400 font-medium"
             variants={itemVariants}
           >
             Hello, I'm
           </motion.p>
           <motion.h1 
-            className="text-4xl md:text-6xl font-bold mb-4"
+            className="text-4xl md:text-6xl font-bold"
             variants={itemVariants}
           >
             Adewunmi

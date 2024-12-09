@@ -11,7 +11,7 @@ export function TechStack() {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 1 }}
-        className="text-gray-400 mb-4"
+        className="text-gray-400"
       >
         Tech Stack
       </motion.p>

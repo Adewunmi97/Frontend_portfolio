@@ -19,7 +19,7 @@ export function Button({
   rel,
   className = '',
 }: ButtonProps) {
-  const baseStyles = 'px-6 py-2 rounded-full font-medium transition-colors';
+  const baseStyles = 'px-4 py-2 rounded-full font-medium transition-colors';
   const variantStyles = {
     primary: 'bg-purple-600 hover:bg-purple-700 text-white',
     secondary: 'bg-gray-700 hover:bg-gray-600 text-white',
