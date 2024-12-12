@@ -22,7 +22,7 @@ export function TechStack() {
             initial={{ opacity: 0, scale: 0.5 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ delay: 1 + index * 0.1 }}
-            className="px-4 py-2 bg-gray-800 rounded-full text-sm text-purple-400 border border-purple-500/20"
+            className="px-4 py-2 bg-gray-800 rounded-full text-sm text-purple-400 border border-purple-500/200"
           >
             {tech}
           </motion.span>
